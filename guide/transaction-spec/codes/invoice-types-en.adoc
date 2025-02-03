@@ -1,4 +1,3 @@
-
 = Invoice type codes
 
 The codes below can be used in business term Invoice Type Code (BT-3) for invoices.
